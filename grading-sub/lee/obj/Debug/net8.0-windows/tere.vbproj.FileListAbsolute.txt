@@ -1,0 +1,52 @@
+F:\VB\tere\bin\Debug\net8.0-windows\tere.exe
+F:\VB\tere\bin\Debug\net8.0-windows\tere.deps.json
+F:\VB\tere\bin\Debug\net8.0-windows\tere.runtimeconfig.json
+F:\VB\tere\bin\Debug\net8.0-windows\tere.dll
+F:\VB\tere\bin\Debug\net8.0-windows\tere.pdb
+F:\VB\tere\obj\Debug\net8.0-windows\tere.Form1.resources
+F:\VB\tere\obj\Debug\net8.0-windows\tere.vbproj.GenerateResource.cache
+F:\VB\tere\obj\Debug\net8.0-windows\tere.GeneratedMSBuildEditorConfig.editorconfig
+F:\VB\tere\obj\Debug\net8.0-windows\tere.AssemblyInfoInputs.cache
+F:\VB\tere\obj\Debug\net8.0-windows\tere.AssemblyInfo.vb
+F:\VB\tere\obj\Debug\net8.0-windows\tere.vbproj.CoreCompileInputs.cache
+F:\VB\tere\obj\Debug\net8.0-windows\tere.sourcelink.json
+F:\VB\tere\obj\Debug\net8.0-windows\tere.dll
+F:\VB\tere\obj\Debug\net8.0-windows\refint\tere.dll
+F:\VB\tere\obj\Debug\net8.0-windows\tere.pdb
+F:\VB\tere\obj\Debug\net8.0-windows\tere.genruntimeconfig.cache
+F:\VB\tere\obj\Debug\net8.0-windows\ref\tere.dll
+F:\VB\tere\obj\Debug\net8.0-windows\tere.Resources.resources
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\bin\Debug\net8.0-windows\tere.exe
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\bin\Debug\net8.0-windows\tere.deps.json
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\bin\Debug\net8.0-windows\tere.runtimeconfig.json
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\bin\Debug\net8.0-windows\tere.dll
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\bin\Debug\net8.0-windows\tere.pdb
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\obj\Debug\net8.0-windows\tere.Form1.resources
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\obj\Debug\net8.0-windows\tere.Resources.resources
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\obj\Debug\net8.0-windows\tere.vbproj.GenerateResource.cache
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\obj\Debug\net8.0-windows\tere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\obj\Debug\net8.0-windows\tere.AssemblyInfoInputs.cache
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\obj\Debug\net8.0-windows\tere.AssemblyInfo.vb
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\obj\Debug\net8.0-windows\tere.vbproj.CoreCompileInputs.cache
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\obj\Debug\net8.0-windows\tere.dll
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\obj\Debug\net8.0-windows\refint\tere.dll
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\obj\Debug\net8.0-windows\tere.pdb
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\obj\Debug\net8.0-windows\tere.genruntimeconfig.cache
+C:\Users\Maan B. Gomez\Downloads\tere-20240402T050353Z-001\tere\obj\Debug\net8.0-windows\ref\tere.dll
+D:\grading-sub\tere\bin\Debug\net8.0-windows\tere.exe
+D:\grading-sub\tere\bin\Debug\net8.0-windows\tere.deps.json
+D:\grading-sub\tere\bin\Debug\net8.0-windows\tere.runtimeconfig.json
+D:\grading-sub\tere\bin\Debug\net8.0-windows\tere.dll
+D:\grading-sub\tere\bin\Debug\net8.0-windows\tere.pdb
+D:\grading-sub\tere\obj\Debug\net8.0-windows\tere.Form1.resources
+D:\grading-sub\tere\obj\Debug\net8.0-windows\tere.Resources.resources
+D:\grading-sub\tere\obj\Debug\net8.0-windows\tere.vbproj.GenerateResource.cache
+D:\grading-sub\tere\obj\Debug\net8.0-windows\tere.GeneratedMSBuildEditorConfig.editorconfig
+D:\grading-sub\tere\obj\Debug\net8.0-windows\tere.AssemblyInfoInputs.cache
+D:\grading-sub\tere\obj\Debug\net8.0-windows\tere.AssemblyInfo.vb
+D:\grading-sub\tere\obj\Debug\net8.0-windows\tere.vbproj.CoreCompileInputs.cache
+D:\grading-sub\tere\obj\Debug\net8.0-windows\tere.dll
+D:\grading-sub\tere\obj\Debug\net8.0-windows\refint\tere.dll
+D:\grading-sub\tere\obj\Debug\net8.0-windows\tere.pdb
+D:\grading-sub\tere\obj\Debug\net8.0-windows\tere.genruntimeconfig.cache
+D:\grading-sub\tere\obj\Debug\net8.0-windows\ref\tere.dll
